@@ -1,0 +1,45 @@
+#wrapper{
+    background:black;
+    margin:45px 35px;
+    border: 10px solid grey;
+    width: 1150px;
+    height: 580px;
+    background-repeat: no-repeat;
+    background-size: 1150px 580px;
+}
+
+.divDesign{
+    background: rgba(216,216,216,0.5);
+    margin: 100px auto;
+    display: block;
+    width: 290px;
+    height: 160px;
+    border: 10px grey solid;
+    border-radius:10px;
+    text-align: center;
+    padding:25px;
+
+}
+
+#arenaOptions{
+    /* background: rgba(216,216,216,0.5);
+    margin: 100px auto;
+    display: block;
+    width: 290px;
+    height: 160px;
+    border: 10px grey solid;
+    border-radius:10px;
+    text-align: center;
+    padding:25px; */
+}
+
+button{
+    width: 80px;
+    height: 30px;
+    margin: 5px;
+}
+
+h1{
+    color: orange;
+    margin: 10px;
+}
